@@ -1,1 +1,3 @@
-This is simply a 32-bit Windows executable version of mpex.py by Azelphur at https://github.com/Azelphur/pyMPEx. It is intended for those Windows users who desire a frontend to MPEx but don't have Python installed. It was created using py2exe. The zip file includes all dependencies. mpex.exe uses the same syntax as mpex.py, the commands for which are documented at the MPEx FAQ: http://polimedia.us/bitcoin/faq.html 
+This is simply a 32-bit Windows executable version of mpex.py by Azelphur at https://github.com/Azelphur/pyMPEx. It is intended for those Windows users who desire a frontend to MPEx but don't have Python installed. It was created using py2exe. The zip file includes most dependencies. mpex.exe uses the same syntax as mpex.py, the commands for which are documented at the MPEx FAQ: http://polimedia.us/bitcoin/faq.html
+
+Note: You need GPG installed and in your %PATH. I recommend Gpg4win at http://www.gpg4win.org/
